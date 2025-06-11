@@ -1,12 +1,11 @@
-# react_dashboard
-Created a dahsboard application using React as the frontend and python as the backend. All user had to do is run 2 terminals to have a full application ready. 
-
+# React / Python Dashboard application
+# Frontend
+Using react, shadcn, and daisyui for the interface of the dashboard. It sends a json request for what region.
+# Backend
+Using Flask API, it sends back json data back to the frontend that the user requested.
 # Data
-Used sample data with python for dashboard layout.
-
-# To run 
-# 1st Terminal
-npm run dev 
-# 2nd Terminal 
-py server.py
-# 3rd Click icon 
+Just created a sample dataset for showcase of dashboard application for work.
+# Running the dashboard 
+1. In 1st terminal type into terminal :  npm run dev 
+2. In 2nd terinal type into terminal : py server.py
+3. Click dashboard icon for dashboard app!
